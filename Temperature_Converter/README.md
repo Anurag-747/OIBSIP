@@ -32,9 +32,6 @@ The Temperature Converter is a simple web application that allows users to conve
 
 2. Go to the project directory
 
-```bash
-  cd Temperature_Converter
-```
 
 3. Open index.html in the Browser:
 
