@@ -22,7 +22,7 @@ Welcome to MediLance! This is a website for a medical platform that connects doc
 1. First, make a copy of this code on your computer:
    
 
-2. Then, open the HTML files in your web browser to see the website.
+2. Then, open the Home.html file in your web browser to see the website.
 
 ## Want to Help?
 
