@@ -20,9 +20,7 @@ Welcome to MediLance! This is a website for a medical platform that connects doc
 ## Getting Started
 
 1. First, make a copy of this code on your computer:
-   ```bash
-   git clone https://github.com/yourusername/medilance-website.git
-   ```
+   
 
 2. Then, open the HTML files in your web browser to see the website.
 
