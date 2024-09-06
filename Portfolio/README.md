@@ -27,9 +27,6 @@ This is a personal portfolio website built using HTML and CSS.
 
 1. Clone the project
 
-```bash
-  git clone https://github.com/Anurag-747/portfolio.git
-```
 
 2. Go to the project directory
 
